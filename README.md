@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/swetaO5/DSA/tree/main/0062-unique-paths/) | Medium |
+| [0338-counting-bits](https://github.com/swetaO5/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/swetaO5/DSA/tree/main/0062-unique-paths/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/swetaO5/DSA/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
