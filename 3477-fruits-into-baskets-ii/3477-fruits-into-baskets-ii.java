@@ -5,7 +5,6 @@ class Solution {
 
         for (int fruit : fruits) {
             boolean placed = false;
-
             for (int j = 0; j < n; j++) {
                 if (baskets[j] >= fruit) {
                     baskets[j] = -1; // basket is now used
@@ -13,12 +12,10 @@ class Solution {
                     break;
                 }
             }
-
             if (!placed) {
                 unplaced++;
             }
         }
-
         return unplaced;
     }
 }
