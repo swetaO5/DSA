@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/swetaO5/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/swetaO5/DSA/tree/main/0118-pascals-triangle/) | Easy |
+| [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/swetaO5/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/swetaO5/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Binary Search
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/swetaO5/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -92,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/swetaO5/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/swetaO5/DSA/tree/main/0326-power-of-three/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
