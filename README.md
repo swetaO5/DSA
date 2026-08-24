@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/swetaO5/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/swetaO5/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/swetaO5/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/swetaO5/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/swetaO5/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## String
