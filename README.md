@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/swetaO5/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/swetaO5/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/swetaO5/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/swetaO5/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/swetaO5/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
