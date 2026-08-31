@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetaO5/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/swetaO5/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/swetaO5/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/swetaO5/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/swetaO5/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/swetaO5/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
+| [0202-happy-number](https://github.com/swetaO5/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/swetaO5/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/swetaO5/DSA/tree/main/0326-power-of-three/) | Easy |
 ## Combinatorics
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/swetaO5/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/swetaO5/DSA/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/swetaO5/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/swetaO5/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -131,4 +134,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/swetaO5/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/swetaO5/DSA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
