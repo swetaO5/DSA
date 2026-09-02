@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-invalid-tweets](https://github.com/swetaO5/DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1934-confirmation-rate](https://github.com/swetaO5/DSA/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/swetaO5/DSA/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/swetaO5/DSA/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
