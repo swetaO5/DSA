@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/swetaO5/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/swetaO5/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/swetaO5/DSA/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/swetaO5/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/swetaO5/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/swetaO5/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
