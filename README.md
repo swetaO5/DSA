@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/swetaO5/DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/swetaO5/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/swetaO5/DSA/tree/main/0595-big-countries/) | Easy |
+| [0610-triangle-judgement](https://github.com/swetaO5/DSA/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/swetaO5/DSA/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/swetaO5/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/swetaO5/DSA/tree/main/0626-exchange-seats/) | Medium |
