@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/swetaO5/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/swetaO5/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/swetaO5/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/swetaO5/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/swetaO5/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/swetaO5/DSA/tree/main/0796-rotate-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/swetaO5/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0383-ransom-note](https://github.com/swetaO5/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0567-permutation-in-string](https://github.com/swetaO5/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/swetaO5/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/swetaO5/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
+| [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
