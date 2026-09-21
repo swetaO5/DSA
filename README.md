@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/swetaO5/DSA/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/swetaO5/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/swetaO5/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1046-last-stone-weight](https://github.com/swetaO5/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/swetaO5/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetaO5/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0018-4sum](https://github.com/swetaO5/DSA/tree/main/0018-4sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/swetaO5/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/swetaO5/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
