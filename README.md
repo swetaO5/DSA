@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/swetaO5/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/swetaO5/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/swetaO5/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/swetaO5/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/swetaO5/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swetaO5/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/swetaO5/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/swetaO5/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0877-stone-game](https://github.com/swetaO5/DSA/tree/main/0877-stone-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0018-4sum](https://github.com/swetaO5/DSA/tree/main/0018-4sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/swetaO5/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/swetaO5/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/swetaO5/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Linked List
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/swetaO5/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swetaO5/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/swetaO5/DSA/tree/main/0134-gas-station/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/swetaO5/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/swetaO5/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
