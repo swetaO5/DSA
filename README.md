@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/swetaO5/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/swetaO5/DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0197-rising-temperature](https://github.com/swetaO5/DSA/tree/main/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/swetaO5/DSA/tree/main/0550-game-play-analysis-iv/) | Medium |
