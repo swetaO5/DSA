@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/swetaO5/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/swetaO5/DSA/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/swetaO5/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/swetaO5/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/swetaO5/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/swetaO5/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/swetaO5/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/swetaO5/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/swetaO5/DSA/tree/main/0455-assign-cookies/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/swetaO5/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
