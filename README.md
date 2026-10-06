@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1211-queries-quality-and-percentage](https://github.com/swetaO5/DSA/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/swetaO5/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/swetaO5/DSA/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/swetaO5/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/swetaO5/DSA/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/swetaO5/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/swetaO5/DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
