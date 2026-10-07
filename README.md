@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/swetaO5/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/swetaO5/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/swetaO5/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/swetaO5/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/swetaO5/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/swetaO5/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swetaO5/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/swetaO5/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
