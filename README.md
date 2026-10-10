@@ -27,12 +27,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/swetaO5/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/swetaO5/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1046-last-stone-weight](https://github.com/swetaO5/DSA/tree/main/1046-last-stone-weight/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swetaO5/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/swetaO5/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetaO5/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/swetaO5/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swetaO5/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/swetaO5/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/swetaO5/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/swetaO5/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/swetaO5/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swetaO5/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swetaO5/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/swetaO5/DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swetaO5/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1046-last-stone-weight](https://github.com/swetaO5/DSA/tree/main/1046-last-stone-weight/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/swetaO5/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
