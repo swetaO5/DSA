@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/swetaO5/DSA/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/swetaO5/DSA/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/swetaO5/DSA/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
