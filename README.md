@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/swetaO5/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/swetaO5/DSA/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/swetaO5/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swetaO5/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/swetaO5/DSA/tree/main/0134-gas-station/) | Medium |
 | [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/swetaO5/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0118-pascals-triangle](https://github.com/swetaO5/DSA/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/swetaO5/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swetaO5/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/swetaO5/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/swetaO5/DSA/tree/main/0392-is-subsequence/) | Easy |
