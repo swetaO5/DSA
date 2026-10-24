@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/swetaO5/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetaO5/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/swetaO5/DSA/tree/main/0031-next-permutation/) | Medium |
+| [0047-permutations-ii](https://github.com/swetaO5/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/swetaO5/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/swetaO5/DSA/tree/main/0118-pascals-triangle/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/swetaO5/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/swetaO5/DSA/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/swetaO5/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/swetaO5/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/swetaO5/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/swetaO5/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/swetaO5/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
