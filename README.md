@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetaO5/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/swetaO5/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0047-permutations-ii](https://github.com/swetaO5/DSA/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/swetaO5/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/swetaO5/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
 | [0118-pascals-triangle](https://github.com/swetaO5/DSA/tree/main/0118-pascals-triangle/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/swetaO5/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/swetaO5/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/swetaO5/DSA/tree/main/0202-happy-number/) | Easy |
@@ -311,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/swetaO5/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/swetaO5/DSA/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
