@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/swetaO5/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/swetaO5/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/swetaO5/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/swetaO5/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/swetaO5/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/swetaO5/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/swetaO5/DSA/tree/main/0389-find-the-difference/) | Easy |
