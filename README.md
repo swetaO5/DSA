@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/swetaO5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/swetaO5/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/swetaO5/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/swetaO5/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/swetaO5/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/swetaO5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/swetaO5/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/swetaO5/DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/swetaO5/DSA/tree/main/0062-unique-paths/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/swetaO5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/swetaO5/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
