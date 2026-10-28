@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetaO5/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/swetaO5/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0045-jump-game-ii](https://github.com/swetaO5/DSA/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/swetaO5/DSA/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/swetaO5/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/swetaO5/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/swetaO5/DSA/tree/main/0056-merge-intervals/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/swetaO5/DSA/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/swetaO5/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/swetaO5/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Enumeration
