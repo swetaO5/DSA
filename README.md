@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/swetaO5/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swetaO5/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/swetaO5/DSA/tree/main/0134-gas-station/) | Medium |
+| [0189-rotate-array](https://github.com/swetaO5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/swetaO5/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/swetaO5/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/swetaO5/DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetaO5/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/swetaO5/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0141-linked-list-cycle](https://github.com/swetaO5/DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0189-rotate-array](https://github.com/swetaO5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/swetaO5/DSA/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/swetaO5/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/swetaO5/DSA/tree/main/0344-reverse-string/) | Easy |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/swetaO5/DSA/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/swetaO5/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/swetaO5/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/swetaO5/DSA/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/swetaO5/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/swetaO5/DSA/tree/main/0326-power-of-three/) | Easy |
