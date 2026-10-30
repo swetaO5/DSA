@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/swetaO5/DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/swetaO5/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/swetaO5/DSA/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/swetaO5/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/swetaO5/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swetaO5/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/swetaO5/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/swetaO5/DSA/tree/main/0078-subsets/) | Medium |
 | [0231-power-of-two](https://github.com/swetaO5/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/swetaO5/DSA/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/swetaO5/DSA/tree/main/0389-find-the-difference/) | Easy |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0046-permutations](https://github.com/swetaO5/DSA/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/swetaO5/DSA/tree/main/0047-permutations-ii/) | Medium |
+| [0078-subsets](https://github.com/swetaO5/DSA/tree/main/0078-subsets/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/swetaO5/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
