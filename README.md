@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/swetaO5/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/swetaO5/DSA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/swetaO5/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/swetaO5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/swetaO5/DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/swetaO5/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/swetaO5/DSA/tree/main/0066-plus-one/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/swetaO5/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/swetaO5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/swetaO5/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -344,4 +346,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/swetaO5/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/swetaO5/DSA/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
