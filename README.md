@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetaO5/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/swetaO5/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/swetaO5/DSA/tree/main/0463-island-perimeter/) | Easy |
+| [0495-teemo-attacking](https://github.com/swetaO5/DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/swetaO5/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/swetaO5/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/swetaO5/DSA/tree/main/0054-spiral-matrix/) | Medium |
+| [0495-teemo-attacking](https://github.com/swetaO5/DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/swetaO5/DSA/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
