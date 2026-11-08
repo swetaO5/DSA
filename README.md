@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/swetaO5/DSA/tree/main/0463-island-perimeter/) | Easy |
 | [0495-teemo-attacking](https://github.com/swetaO5/DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/swetaO5/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0575-distribute-candies](https://github.com/swetaO5/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/swetaO5/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/swetaO5/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/swetaO5/DSA/tree/main/0877-stone-game/) | Medium |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/swetaO5/DSA/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetaO5/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/swetaO5/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0575-distribute-candies](https://github.com/swetaO5/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0763-partition-labels](https://github.com/swetaO5/DSA/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/swetaO5/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Sliding Window
